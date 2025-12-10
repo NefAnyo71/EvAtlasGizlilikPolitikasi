@@ -1,0 +1,2 @@
+# EvAtlasGizlilikPolitikasi
+gizlilik politikamız
